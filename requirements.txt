@@ -1,0 +1,9 @@
+numpy
+librosa
+soundfile
+phonemizer
+PyYAML
+tqdm
+torch
+torchaudio
+pytorch-lightning
